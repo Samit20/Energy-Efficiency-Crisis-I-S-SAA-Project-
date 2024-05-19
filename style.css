@@ -1,0 +1,107 @@
+body {
+  background-color: beige;
+}
+.itc {
+  color: green;
+}
+#chessbot {
+  text-align: center;
+  color: orange;
+}
+
+.fcp {
+  color: indigo;
+}
+
+.fcgoat {
+  color: red;
+}
+
+.pcw {
+  color: goldenrod;
+}
+
+#contact iframe {
+  width: 100%;
+}
+
+.contact_1 h3 {
+  display: inline;
+}
+
+.contact_1 a {
+  text-shadow: none;
+}
+
+input {
+  background: grey;
+}
+
+.icp {
+  text-align: center;
+}
+.intro_mainDiv {
+  border: 1px solid;
+  padding-left: 0px;
+  padding-right: 0px;
+  float: none;
+  background-color: beige;
+}
+
+.intro_mainDiv img {
+  width: 100%;
+}
+
+.intro_mainDiv hr {
+  width: 230px;
+}
+
+.intro_mainDiv h5,
+.intro_mainDiv p {
+  margin-left: 20px;
+}
+
+.movie_head {
+  font-size: 20px;
+  padding: 6px;
+  border-radius: 10px;
+  width: 100%;
+  display: inline-block;
+}
+
+.movie_head i {
+  float: right;
+}
+
+.environment_li {
+  margin-top: 13px;
+}
+
+.environment_li h4 {
+  border-bottom: 1px solid white;
+  padding: 8px;
+}
+
+.book {
+  cursor: pointer;
+}
+
+.book hr {
+  margin-bottom: 10px;
+}
+
+.modal-content {
+  margin-top: 100px;
+}
+
+.img-modal {
+  display: inline-block;
+}
+
+.p_modal {
+  margin-top: 10px;
+}
+
+.pcb {
+  color: brown;
+}
